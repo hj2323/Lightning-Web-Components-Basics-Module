@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/hj2323.lwc-l1d9ojn1-fork-l1d9plpe",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve JxBXL1GYhSNHtNpzBoMP --open"
+  }
+}
